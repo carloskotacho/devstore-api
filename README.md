@@ -31,7 +31,7 @@ Sendo assim, crie um sistema capaz de gerenciar o estoque de uma loja virtual de
 
 Todos os produtos devem apresentar a opção de cadastros de SKUs, ou seja, de variações do mesmo produto, indicando a quantidade correspondente a cada SKU. Ex: Camiseta com tamanhos P, M, G; Tênis com tamanhos 39, 40, 41, 42.
 
-## Requisitos
+### Requisitos
  - [ ] NodeJS;
  - [ ] Express ou outro framework;
  - [ ] Banco de Dados relacional;
@@ -39,7 +39,7 @@ Todos os produtos devem apresentar a opção de cadastros de SKUs, ou seja, de v
  - [ ] Autenticação de Usuário (JWT);
  - [ ] GIT.
 
-## Diferenciais
+### Diferenciais
 - [ ] Typescript;
 - [ ] Typeorm;
 - [ ] TDD;
@@ -53,7 +53,7 @@ Todos os produtos devem apresentar a opção de cadastros de SKUs, ou seja, de v
 
 #### 🧭 Rodando a aplicação web (Frontend)
 
-## ➤ Usando
+#### Usando
 
 ## ➤ Autor
 
