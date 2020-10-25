@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="logo-softmoney" src="https://user-images.githubusercontent.com/22691244/97096228-5e8d4780-163f-11eb-91de-9e1afae8096b.png">
+  <img alt="prototipo-devstore" src="https://user-images.githubusercontent.com/22691244/97096244-a90ec400-163f-11eb-8128-c1bc86768ee8.png">
   <br />
   <sub>Construindo<sub>
 </p>
