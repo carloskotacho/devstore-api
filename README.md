@@ -51,7 +51,7 @@ Todos os produtos devem apresentar a opção de cadastros de SKUs, ou seja, de v
 
 ### Pré-requisitos
 
-#### 🧭 Rodando a aplicação web (Frontend)
+#### 🧭 Rodando a aplicação api (Backend)
 
 #### Usando
 
