@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" alt="logo-softmoney" src="https://user-images.githubusercontent.com/22691244/96201626-74aa5200-0f33-11eb-8743-6229bc7617bc.png">
+  <img alt="prototipo-devstore" src="https://user-images.githubusercontent.com/22691244/97096244-a90ec400-163f-11eb-8128-c1bc86768ee8.png">
   <br />
   <sub>Construindo<sub>
 </p>
@@ -51,7 +51,7 @@ Todos os produtos devem apresentar a opção de cadastros de SKUs, ou seja, de v
 
 ### Pré-requisitos
 
-#### 🧭 Rodando a aplicação web (Frontend)
+#### 🧭 Rodando a aplicação api (Backend)
 
 #### Usando
 
