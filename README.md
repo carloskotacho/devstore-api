@@ -11,7 +11,7 @@
   <a href="https://david-dm.org/carloskotacho/devstore-api">
       <img src="https://img.shields.io/david/peer/carloskotacho/devstore-api?color=333&label=prod&style=flat-square"/>
   </a>
-  <a href="https://david-dm.org/carloskotacho/goomer-api?type=dev">
+  <a href="https://david-dm.org/carloskotacho/devstore-api?type=dev">
       <img src="https://img.shields.io/david/dev/carloskotacho/devstore-api?color=333&label=dev&style=flat-square"/>
   </a>
 </p>
